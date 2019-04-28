@@ -1,0 +1,15 @@
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.pdb
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csprojAssemblyReference.cache
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\MainWindow.g.cs
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\App.g.cs
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.cache
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.lref
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\MainWindow.baml
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.g.resources
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.Properties.Resources.resources
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.GenerateResource.cache
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.CoreCompileInputs.cache
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.exe
+C:\Users\dowsp\Documents\C_Sharp\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.pdb
