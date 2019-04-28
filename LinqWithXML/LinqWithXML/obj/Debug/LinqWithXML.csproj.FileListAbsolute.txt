@@ -1,0 +1,7 @@
+C:\Users\dowsp\Documents\C_Sharp\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe.config
+C:\Users\dowsp\Documents\C_Sharp\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe
+C:\Users\dowsp\Documents\C_Sharp\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.pdb
+C:\Users\dowsp\Documents\C_Sharp\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csprojAssemblyReference.cache
+C:\Users\dowsp\Documents\C_Sharp\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.CoreCompileInputs.cache
+C:\Users\dowsp\Documents\C_Sharp\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.exe
+C:\Users\dowsp\Documents\C_Sharp\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.pdb
