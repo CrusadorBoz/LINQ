@@ -1,0 +1,7 @@
+C:\Users\dowsp\Documents\C_Sharp\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\LINQToObjectsAndQueryOperators.exe.config
+C:\Users\dowsp\Documents\C_Sharp\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\LINQToObjectsAndQueryOperators.exe
+C:\Users\dowsp\Documents\C_Sharp\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\LINQToObjectsAndQueryOperators.pdb
+C:\Users\dowsp\Documents\C_Sharp\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\LINQToObjectsAndQueryOperators.csprojAssemblyReference.cache
+C:\Users\dowsp\Documents\C_Sharp\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\LINQToObjectsAndQueryOperators.csproj.CoreCompileInputs.cache
+C:\Users\dowsp\Documents\C_Sharp\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\LINQToObjectsAndQueryOperators.exe
+C:\Users\dowsp\Documents\C_Sharp\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\LINQToObjectsAndQueryOperators.pdb
